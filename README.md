@@ -1,2 +1,45 @@
 # HOMESCHOOL
 Sitio web para estudiantes 
+<!DOCTYPE html>
+<html>
+	<head>
+	<meta charset="UTF=8">
+	<title>HOME SCHOOL</title>
+	<LINK rel="style" type="text/css" href="estilo.css">
+	</head>
+<body>
+  <div aling="center">
+<embed src="VIDEO.mp4" width="300"  height="300">
+
+
+</div>
+	<ul class="menu">
+	<li><a href="INICIO"></a></li>
+	<li><a href="METODOS"></a></li>
+	<li><a href="HABITOS"></a></li>
+	<li><a href="IMAGENES"></a></li>
+	</ul>
+<div> id="pracatica II"
+</div>
+<h4>Hemos creado este sitio web con la finalidad de dar apoyo a estudiantes como nosotoros que por circunstancias de contingencia deben poner un poco mas de empeño a las actividades escoalres</H4>
+
+		<table border="1">
+		<tr>
+		<td colspan ="3"><img/img src="jess.jpg" width="900" height="400"/></td>
+		</tr>
+		<tr>
+		<td bgcolor="#D17562">JESSICA PAOLA MORENO GIRON</td>
+		</tr>
+		<tr>
+		<td bgcolor="#D17562">7226464289</td>
+		<td bgcolor="#D17562">5545803004</td>
+		<td bgcolor="#D17562">El Despoblado </td>
+		</tr>
+		</table>
+
+		<h4><center> <div class="n"><p><b><font color="#1DF181" face="arial" size="5">
+		<marquee width="950" scrollamount="10" bgcolor="#a813d7">Jessica Paola Moreno Giron</marquee></font>
+		</b></p></center> </H4>
+
+	</body>
+</html>
