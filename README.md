@@ -1,5 +1,3 @@
-# HOMESCHOOL
-Sitio web para estudiantes 
 <!DOCTYPE html>
 <html>
 	<head>
@@ -8,11 +6,6 @@ Sitio web para estudiantes
 	<LINK rel="style" type="text/css" href="estilo.css">
 	</head>
 <body>
-  <div aling="center">
-<embed src="VIDEO.mp4" width="300"  height="300">
-
-
-</div>
 	<ul class="menu">
 	<li><a href="INICIO"></a></li>
 	<li><a href="METODOS"></a></li>
